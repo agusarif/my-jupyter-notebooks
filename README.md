@@ -1,2 +1,2 @@
 # my-jupyter-notebooks
-Collection of Jupyter Notebooks which I created.
+This repo is aplce to collect some Jupyter Notebooks which I created.
